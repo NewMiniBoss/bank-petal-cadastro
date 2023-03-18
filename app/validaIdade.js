@@ -1,8 +1,6 @@
 export default function validaNascimento(campo) {
     const dataNascimento = new Date(campo.value);
     validaIdade(dataNascimento)
-
-    return console.log(validaIdade)
 }
 
 function validaIdade(data) {
