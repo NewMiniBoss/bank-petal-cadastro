@@ -87,7 +87,6 @@
 
 .formulario__botao,
 .camera__botao {
-    cursor: pointer;
     background: var(--azul-claro);
     margin: 2em auto;
     display: block;
